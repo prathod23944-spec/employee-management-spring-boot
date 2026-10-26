@@ -1,0 +1,17 @@
+$kind: http-request
+url: http://localhost:8080/api/employees
+method: POST
+body:
+  type: json
+  content: "\r
+
+    {\r
+
+    \  \"name\": \"Rahul Patil\",\r
+
+    \  \"email\": \"rahul@example.com\",\r
+
+    \  \"salary\": 25000\r
+
+    }\r\n"
+order: 3000

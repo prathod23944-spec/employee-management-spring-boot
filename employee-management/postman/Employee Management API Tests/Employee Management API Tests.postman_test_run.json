@@ -1,0 +1,96 @@
+{
+	"id": "6adf320485d967d70ba8774a",
+	"name": "Employee Management API Tests",
+	"timestamp": "2026-10-26T10:58:41.852Z",
+	"collection_id": "43EF7741AE3EdaCDafF7a5D9",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-10-26T10:57:08.159Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "bDBC8bfCCc2f4feCBd3CfeCc"
+			},
+			{
+				"id": "c0e06C56Cf5B0093a051b20f"
+			},
+			{
+				"id": "1A3f86DA85D2Fb9Ba2AB4F5a"
+			},
+			{
+				"id": "f6fB72702fefcAAF8bD65ab0"
+			},
+			{
+				"id": "CC4d9dD40C76FA8a4A2f139D"
+			},
+			{
+				"id": "EE9DBcCa0b7e9f9e85E1dBAC"
+			},
+			{
+				"id": "DDAfeFE3e45E9C48e6ef2B34"
+			},
+			{
+				"id": "C2c7bbEadFdcB1ea0A7f97aF"
+			},
+			{
+				"id": "a4D5Af0459070ddCFcDc6DBC"
+			},
+			{
+				"id": "C5dFAE07bAe57132c74fA6CC"
+			},
+			{
+				"id": "BB9f0E931E642b8a1EC84cdb"
+			},
+			{
+				"id": "ebe04AbF0E85F66b7a36FebE"
+			},
+			{
+				"id": "9C5A98a85b9E3a14CAFed4A3"
+			},
+			{
+				"id": "e6eb11ABDf9FFceF4b0EfdCb"
+			},
+			{
+				"id": "E799b66450Ae3c81F1d1340B"
+			},
+			{
+				"id": "84ebcbc5b97110578eACfFFe"
+			},
+			{
+				"id": "fed5Bb6d1eDbd576785a8fA9"
+			},
+			{
+				"id": "4Eb66f9BECFB60694DBaf5cF"
+			},
+			{
+				"id": "f5FeFe3B41C7709Addd38BE3"
+			},
+			{
+				"id": "9bbF41Cd3BA2a6bEB01B79e9"
+			},
+			{
+				"id": "2cb67f6Ce2ad22E4CB8e358c"
+			},
+			{
+				"id": "AEdd8F5B25dDa27Df2c1aaBC"
+			},
+			{
+				"id": "485b0CBd95EFb624Fee00BaE"
+			},
+			{
+				"id": "06e5FAa5eFbAAcaaaAD5DCc9"
+			},
+			{
+				"id": "cD2aaDcA9013412Ca3Bcd8Bb"
+			}
+		]
+	}
+}

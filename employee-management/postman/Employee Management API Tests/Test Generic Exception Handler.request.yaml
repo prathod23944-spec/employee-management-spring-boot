@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/api/employees/test-error
+method: GET
+order: 15000

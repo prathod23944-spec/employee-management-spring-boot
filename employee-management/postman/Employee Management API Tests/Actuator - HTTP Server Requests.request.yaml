@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/actuator/metrics/http.server.requests
+method: GET
+order: 23000

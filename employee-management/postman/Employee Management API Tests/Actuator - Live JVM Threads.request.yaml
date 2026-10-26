@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/actuator/metrics/jvm.threads.live
+method: GET
+order: 26000

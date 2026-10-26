@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Employee Management System</title>
+
+    <!-- Connect CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Employee Management System</h1>
+
+<!-- Employee Form -->
+<div class="form-container">
+
+    <h2>Add New Employee</h2>
+
+    <form id="employeeForm">
+
+        <label for="name">Employee Name:</label>
+        <input
+                type="text"
+                id="name"
+                name="name"
+                placeholder="Enter employee name"
+                required
+        >
+
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="Enter email"
+                required
+        >
+
+        <br><br>
+
+        <label for="salary">Salary:</label>
+        <input
+                type="number"
+                id="salary"
+                name="salary"
+                placeholder="Enter salary"
+                min="1"
+                required
+        >
+
+        <br><br>
+
+        <button type="submit">Add Employee</button>
+
+    </form>
+
+    <p id="message"></p>
+
+</div>
+
+<!-- Employee List -->
+<div class="employee-list">
+
+    <h2>Employee List</h2>
+
+    <table>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Salary</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+
+        <tbody id="employeeTableBody">
+        <!-- Employee rows will be added by JavaScript -->
+        </tbody>
+    </table>
+
+</div>
+
+<!-- Connect JavaScript -->
+<script src="script.js"></script>
+
+</body>
+
+</html>

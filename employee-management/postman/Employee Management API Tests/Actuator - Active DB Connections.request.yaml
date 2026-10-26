@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/actuator/metrics/hikaricp.connections.active
+method: GET
+order: 25000
